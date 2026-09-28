@@ -1,0 +1,751 @@
+{
+  "title": "The history of the printer",
+  "tagline": "1,200 years from carved wooden blocks to ink tanks, laser drums and machines that print in plastic.",
+  "intro": "For centuries, printing meant pressing inked type or carved blocks onto paper, and every copy of every page had to be set up by hand. In the twentieth century computers needed a way to put their results on paper, so engineers built printers that hammer pins, boil ink, spray drops and draw with static electricity and light. Today the same idea of placing tiny dots has moved into homes across India and even into three dimensions.",
+  "eras": [
+    {
+      "id": "press",
+      "name": "Blocks, type and presses",
+      "from": 850,
+      "to": 1850,
+      "color": "#c49bff",
+      "summary": "Carved wooden blocks in China, movable type in China and Korea, then Gutenberg's press in Europe. Printing reaches India at Goa in 1556."
+    },
+    {
+      "id": "machines",
+      "name": "Machines that print by themselves",
+      "from": 1840,
+      "to": 1965,
+      "color": "#ffb547",
+      "summary": "Babbage designs a printer for his calculating engine, Carlson invents xerography, and ink is first squirted in continuous jets."
+    },
+    {
+      "id": "computer",
+      "name": "Printers for computers",
+      "from": 1965,
+      "to": 1983,
+      "color": "#ff7a59",
+      "summary": "Thermal heads, tiny calculator printers, dot-matrix pins and the first laser printers turn computer output into paper."
+    },
+    {
+      "id": "desktop",
+      "name": "A printer on every desk",
+      "from": 1983,
+      "to": 2005,
+      "color": "#5ce1a9",
+      "summary": "Bubble jet and laser printers shrink and get cheap. Colour inkjets reach photo quality, and 3D printing is born."
+    },
+    {
+      "id": "everyone",
+      "name": "Ink tanks and 3D at home",
+      "from": 2005,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Open-source 3D printers spread, and refillable ink tank printers make pages cheap in India and across Asia."
+    }
+  ],
+  "events": [
+    {
+      "year": 868,
+      "date": "11 May 868",
+      "era": "press",
+      "art": "scroll",
+      "key": true,
+      "title": "The oldest dated printed book",
+      "who": "Wang Jie (who paid for it) and unknown block cutters",
+      "where": "Dunhuang, China",
+      "country": "China",
+      "text": "The Diamond Sutra is a scroll printed from carved wooden blocks. It carries a date equal to 11 May 868, which makes it the oldest dated printed book known. A whole page was carved into one block, inked and pressed onto paper.",
+      "why": "It shows the core idea every printer still uses: ink put down in a pattern, the same way, copy after copy.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1040,
+      "date": "c. 1040",
+      "era": "press",
+      "art": "block",
+      "title": "Movable type from baked clay",
+      "who": "Bi Sheng",
+      "where": "China",
+      "country": "China",
+      "text": "Bi Sheng made separate characters from baked clay that could be arranged into a page, printed, then taken apart and reused. We know about him from the writer Shen Kuo. His type was not widely used, but the idea was new.",
+      "why": "Reusable pieces that make up any page are the ancestors of the dots a modern printer arranges.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1377,
+      "date": "1377",
+      "era": "press",
+      "art": "word",
+      "title": "The oldest surviving book printed with metal type",
+      "who": "Monks of Heungdeok Temple",
+      "where": "Cheongju, Korea",
+      "country": "South Korea",
+      "text": "Jikji, a Korean Buddhist text, was printed with movable metal type in 1377. It is the oldest surviving book made this way, older than Gutenberg's Bible. The only known copy is in the National Library of France.",
+      "why": "Metal type was stronger and more even than wood or clay.",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1440,
+      "date": "c. 1440",
+      "era": "press",
+      "art": "word",
+      "key": true,
+      "title": "Gutenberg's printing press",
+      "who": "Johannes Gutenberg",
+      "where": "Mainz, Germany",
+      "country": "Germany",
+      "text": "Gutenberg combined metal type cast in a hand mould, an oil-based ink and a screw press. His Bible was finished around 1455. Printing spread across Europe within fifty years and books became far cheaper.",
+      "why": "It made printing fast and cheap enough to change how knowledge spread, though every page still had to be set by hand.",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 1556,
+      "date": "1556",
+      "era": "press",
+      "art": "scroll",
+      "title": "The first printing press in India",
+      "who": "Jesuits, with printer Juan de Bustamante",
+      "where": "St Paul's College, Old Goa, India",
+      "country": "India",
+      "text": "A press on its way from Portugal to Ethiopia stayed in Goa instead, and printing began at the Jesuit college of St Paul in 1556. Its first known pieces were religious texts. Printing in Indian languages followed over the next decades.",
+      "why": "It began India's own history of print, which leads to today's crowded print shops and home ink tanks.",
+      "sources": [
+        5,
+        6
+      ]
+    },
+    {
+      "year": 1847,
+      "date": "1846–1849",
+      "era": "machines",
+      "art": "gear",
+      "key": true,
+      "title": "Babbage designs a printer for his engine",
+      "who": "Charles Babbage",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Babbage designed Difference Engine No. 2 between 1846 and 1849, with a printing unit that would print results onto paper and press them into soft moulds for making printing plates. It was never built in his lifetime. London's Science Museum finished building the engine, and then its printer in 2002.",
+      "why": "It was perhaps the first design for a computer printer: a machine that writes its own answers, with no person copying them out.",
+      "sources": [
+        7,
+        8
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "22 October 1938",
+      "era": "machines",
+      "art": "plate",
+      "key": true,
+      "title": "The first xerographic copy",
+      "who": "Chester Carlson and Otto Kornei",
+      "where": "Astoria, New York, USA",
+      "country": "United States",
+      "text": "Carlson and Kornei rubbed a sulfur-coated zinc plate to charge it, shone light through a glass slide reading \"10-22-38 Astoria\", then dusted it with powder. The powder stuck where the light hadn't reached. Carlson called the process electrophotography.",
+      "why": "Charge, light and powder is exactly how every laser printer works today.",
+      "box": "laser",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1951,
+      "date": "1951",
+      "era": "machines",
+      "art": "waterdrop",
+      "title": "Continuous inkjet reaches the market",
+      "who": "Siemens",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "The first commercial devices that wrote with a continuous jet of ink came from Siemens in 1951. They were used for recording instruments, like chart recorders for medical signals, rather than for printing pages.",
+      "why": "It proved that a fine jet of ink could be steered to write.",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1959",
+      "era": "machines",
+      "art": "printer",
+      "title": "The Xerox 914 copier",
+      "who": "Haloid Xerox",
+      "where": "Rochester, New York, USA",
+      "country": "United States",
+      "text": "Twenty years after Carlson's first copy, his idea became the Xerox 914, the first automatic plain-paper office copier. It made copies in seconds on ordinary paper and was a huge success.",
+      "why": "It turned xerography into a machine, with a drum, toner and a fuser: the laser printer's direct parent.",
+      "sources": [
+        12,
+        9
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1965 and 1969",
+      "era": "computer",
+      "art": "heatwaves",
+      "title": "The thermal print head",
+      "who": "Texas Instruments",
+      "where": "Dallas, Texas, USA",
+      "country": "United States",
+      "text": "Texas Instruments invented the thermal print head in 1965. Its Silent 700 terminal of 1969 printed on heat-sensitive paper with no ink at all, and became the first commercial thermal printing system.",
+      "why": "The same idea prints nearly every shop receipt and bus ticket today.",
+      "box": "others",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "September 1968",
+      "era": "computer",
+      "art": "calculator",
+      "title": "The world's first mini printer",
+      "who": "Shinshu Seiki (later Epson)",
+      "where": "Suwa, Japan",
+      "country": "Japan",
+      "text": "Shinshu Seiki launched the EP-101, a tiny electronic printer only 16 cm wide that was soon built into desk calculators. Later printers based on it were sold as the \"son of EP\", which is where the name Epson comes from.",
+      "why": "It showed that a printer could be small and cheap enough to go inside other machines.",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970",
+      "era": "computer",
+      "art": "printer",
+      "key": true,
+      "title": "The Centronics 101 dot-matrix printer",
+      "who": "Centronics, led by Robert Howard",
+      "where": "Hudson, New Hampshire, USA",
+      "country": "United States",
+      "text": "The Centronics 101, shown in 1970, printed 165 characters a second by firing a column of seven wire pins through a ribbon. Its plug became the standard printer connector for decades. Japan's OKI had shown a wire dot printer a little earlier, in 1968.",
+      "why": "Dot-matrix printers were how most computer users printed for twenty years, and they still print passbooks and forms.",
+      "box": "others",
+      "sources": [
+        16,
+        17
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "1969–1971",
+      "era": "computer",
+      "art": "printer",
+      "key": true,
+      "title": "The laser printer is invented",
+      "who": "Gary Starkweather",
+      "where": "Xerox, Webster, New York, and Xerox PARC, California, USA",
+      "country": "United States",
+      "text": "In 1969 Starkweather, an optics engineer at Xerox, had the idea of drawing on a copier's drum with a laser instead of a photo of a page. He moved to Xerox PARC in 1971 and built a working laser printer there, which later became the Xerox 9700.",
+      "why": "It let a computer draw any page, letters or pictures, at high speed.",
+      "box": "laser",
+      "sources": [
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "computer",
+      "art": "computer",
+      "title": "The first commercial laser printer",
+      "who": "IBM",
+      "where": "USA",
+      "country": "United States",
+      "text": "IBM's 3800 printed 215 pages a minute at 240 dots per inch on continuous paper. It was a room-sized machine for big computer centres. Xerox followed with its 9700 in 1977.",
+      "why": "Businesses could now print bills and statements by the million.",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "1977",
+      "era": "computer",
+      "art": "waterdrop",
+      "title": "A hot soldering iron and a syringe of ink",
+      "who": "Ichiro Endo and colleagues at Canon",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "At Canon, a hot soldering iron touched a syringe needle full of ink, and drops shot out of the tip. Canon's researchers turned this into the Bubble Jet idea and filed a basic patent in 1977. At about the same time, John Vaught's team at HP found that thin-film resistors could fire ink drops too.",
+      "why": "Boiling ink with a tiny heater became the thermal inkjet, the most common home printer in the world.",
+      "box": "inkjet",
+      "sources": [
+        21,
+        11
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "1979–1980",
+      "era": "computer",
+      "art": "printer",
+      "title": "The Epson MX-80",
+      "who": "Epson",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "The MX-80 was a cheap, reliable 9-pin dot-matrix printer that became one of the most popular printers of the early personal computer age.",
+      "why": "It put a printer beside millions of home and office computers.",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "1984",
+      "era": "desktop",
+      "art": "printer",
+      "key": true,
+      "title": "The first mass-market inkjet: HP ThinkJet",
+      "who": "Hewlett-Packard",
+      "where": "Corvallis, Oregon, USA",
+      "country": "United States",
+      "text": "HP's ThinkJet (short for thermal inkjet) was the first low-cost, mass-produced thermal inkjet printer. The printhead was built into a throw-away ink cartridge, so each new cartridge brought fresh nozzles.",
+      "why": "Quiet, cheap inkjets began replacing noisy dot-matrix printers at home.",
+      "box": "inkjet",
+      "sources": [
+        22,
+        23
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "22 May 1984",
+      "era": "desktop",
+      "art": "printer",
+      "key": true,
+      "title": "The HP LaserJet",
+      "who": "Hewlett-Packard, with a Canon print engine",
+      "where": "USA and Japan",
+      "country": "United States",
+      "text": "The first LaserJet printed 8 pages a minute at 300 dots per inch and cost $3,495. Inside was Canon's CX engine, with the drum and toner in one replaceable cartridge.",
+      "why": "Laser quality came to ordinary offices, and the desktop publishing boom followed.",
+      "box": "laser",
+      "sources": [
+        24,
+        20
+      ]
+    },
+    {
+      "year": 1984,
+      "date": "filed 8 August 1984",
+      "era": "desktop",
+      "art": "wireframe",
+      "title": "Stereolithography: the first 3D printing",
+      "who": "Chuck Hull",
+      "where": "California, USA",
+      "country": "United States",
+      "text": "Chuck Hull applied for a patent on stereolithography, which builds an object layer by layer by hardening liquid plastic with ultraviolet light. The patent was granted in March 1986.",
+      "why": "It started 3D printing: the idea of a printer that builds solid things.",
+      "sources": [
+        25,
+        26
+      ]
+    },
+    {
+      "year": 1985,
+      "date": "December 1985",
+      "era": "desktop",
+      "art": "waterdrop",
+      "title": "Canon's first Bubble Jet printer",
+      "who": "Canon",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Canon launched the BJ-80, its first printer using Bubble Jet technology, eight years after the soldering-iron discovery.",
+      "why": "Thermal inkjet now had two big makers, and prices began to fall.",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "filed 9 June 1989",
+      "era": "desktop",
+      "art": "block",
+      "title": "Fused deposition modelling",
+      "who": "Scott Crump and Lisa Crump",
+      "where": "USA",
+      "country": "United States",
+      "text": "Scott Crump filed a patent on building objects from melted plastic squeezed out of a moving nozzle, laying down one layer on top of another. The same year he and his wife Lisa founded the company Stratasys to sell the machines.",
+      "why": "FDM is the kind of 3D printer found in schools and homes today.",
+      "box": "others",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "1994",
+      "era": "desktop",
+      "art": "colour",
+      "title": "Colour inkjet at 720 dpi",
+      "who": "Epson",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Epson's Stylus Color was the world's first 720 dpi colour inkjet. It used Epson's Micro Piezo head, which squeezes drops out with a bending crystal instead of boiling them.",
+      "why": "Home printers could now print photographs people were happy to keep.",
+      "box": "dots",
+      "sources": [
+        29
+      ]
+    },
+    {
+      "year": 2005,
+      "date": "2004–2005",
+      "era": "everyone",
+      "art": "gear",
+      "key": true,
+      "title": "RepRap: a 3D printer that prints itself",
+      "who": "Adrian Bowyer and the RepRap community",
+      "where": "University of Bath, England",
+      "country": "United Kingdom",
+      "text": "Bowyer proposed RepRap in 2004, and the project got going at the University of Bath in 2005: an open-source, cheap 3D printer that could print many of its own parts. Its Darwin model of 2008 printed about half of its own plastic parts, and hundreds of people worldwide joined in.",
+      "why": "Open designs made hobby 3D printers cheap, which is why schools and makers now have them.",
+      "box": "others",
+      "sources": [
+        30,
+        33
+      ]
+    },
+    {
+      "year": 2011,
+      "date": "2010–2011",
+      "era": "everyone",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Ink tank printers arrive in India",
+      "who": "Epson, followed by other makers",
+      "where": "Indonesia, then India and the rest of Asia",
+      "country": "India",
+      "text": "Epson launched its L100 and L200 ink tank printers in Indonesia in 2010, designed for emerging markets, then brought them to India and other Asian countries. Reports put the Indian launch in 2011 at about ₹9,000. Other makers followed with their own refillable models.",
+      "why": "Bottled ink cut the cost of a page from rupees to paise, which suits students, shops and small offices.",
+      "box": "cost",
+      "sources": [
+        31,
+        32
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Oldest dated printed book",
+      "value": "868",
+      "who": "The Diamond Sutra, Dunhuang, China"
+    },
+    {
+      "label": "Oldest surviving book printed with metal type",
+      "value": "1377",
+      "who": "Jikji, Korea"
+    },
+    {
+      "label": "First printing press in India",
+      "value": "1556",
+      "who": "St Paul's College, Goa"
+    },
+    {
+      "label": "First xerographic copy",
+      "value": "1938",
+      "who": "Chester Carlson and Otto Kornei, USA"
+    },
+    {
+      "label": "First commercial thermal printing system",
+      "value": "1969",
+      "who": "Texas Instruments Silent 700"
+    },
+    {
+      "label": "First commercial laser printer",
+      "value": "1976",
+      "who": "IBM 3800"
+    },
+    {
+      "label": "First mass-market thermal inkjet",
+      "value": "1984",
+      "who": "HP ThinkJet"
+    },
+    {
+      "label": "First 720 dpi colour inkjet",
+      "value": "1994",
+      "who": "Epson Stylus Color"
+    }
+  ],
+  "people": [
+    {
+      "name": "Bi Sheng",
+      "life": "c. 970 – 1051",
+      "role": "Artisan and inventor",
+      "from": "China",
+      "note": "Made the first known movable type, from baked clay."
+    },
+    {
+      "name": "Johannes Gutenberg",
+      "life": "c. 1400 – 1468",
+      "role": "Goldsmith and printer",
+      "from": "Germany",
+      "note": "Combined metal type, oil ink and a press into a practical printing system."
+    },
+    {
+      "name": "Charles Babbage",
+      "life": "1791 – 1871",
+      "role": "Mathematician and inventor",
+      "from": "England",
+      "note": "Designed a calculating engine with its own printer."
+    },
+    {
+      "name": "Chester Carlson",
+      "life": "1906 – 1968",
+      "role": "Physicist and patent lawyer",
+      "from": "USA",
+      "note": "Invented xerography, the charge-light-powder process behind copiers and laser printers."
+    },
+    {
+      "name": "Gary Starkweather",
+      "life": "1938 – 2019",
+      "role": "Optical engineer",
+      "from": "USA",
+      "note": "Invented the laser printer at Xerox."
+    },
+    {
+      "name": "Ichiro Endo",
+      "life": "20th century",
+      "role": "Engineer at Canon",
+      "from": "Japan",
+      "note": "Led the work that turned a boiling drop of ink into Canon's Bubble Jet."
+    },
+    {
+      "name": "John Vaught",
+      "life": "20th century",
+      "role": "Engineer at HP",
+      "from": "USA",
+      "note": "Led HP's team that developed thermal inkjet printing."
+    },
+    {
+      "name": "Adrian Bowyer",
+      "life": "born 1952",
+      "role": "Engineer and lecturer",
+      "from": "England",
+      "note": "Founded RepRap, the self-copying open-source 3D printer."
+    }
+  ],
+  "series": [
+    {
+      "id": "dpi",
+      "title": "How fine a laser printer could print",
+      "unit": "dots per inch",
+      "log": false,
+      "after": "desktop",
+      "caption": "From the first room-sized laser printer to home machines, resolution rose fivefold.",
+      "points": [
+        {
+          "year": 1976,
+          "value": 240,
+          "label": "IBM 3800: 240 dpi"
+        },
+        {
+          "year": 1984,
+          "value": 300,
+          "label": "HP LaserJet: 300 dpi"
+        },
+        {
+          "year": 2008,
+          "value": 1200,
+          "label": "1,200 dpi widely available for homes by 2008"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The name Epson means \"son of EP\", after the EP-101 mini printer of 1968.",
+    "The first xerographic copy just said \"10-22-38 Astoria\", the date and the place.",
+    "Canon's thermal inkjet began with an accident: a hot soldering iron touched a syringe full of ink.",
+    "The first HP LaserJet weighed about 32 kg and cost $3,495.",
+    "Babbage's printer was designed in the 1840s but only built in 2002, and it works."
+  ],
+  "sources": [
+    {
+      "title": "The Diamond Sutra",
+      "publisher": "British Library",
+      "url": "https://www.bl.uk/collection-items/the-diamond-sutra"
+    },
+    {
+      "title": "Diamond Sutra",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Diamond_Sutra"
+    },
+    {
+      "title": "Bi Sheng",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bi_Sheng"
+    },
+    {
+      "title": "Jikji",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jikji"
+    },
+    {
+      "title": "Johannes Gutenberg",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Johannes-Gutenberg"
+    },
+    {
+      "title": "Printing in Goa",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Printing_in_Goa"
+    },
+    {
+      "title": "Print history: Jesuit historians and printing in sixteenth century India",
+      "publisher": "PrintWeek India",
+      "url": "https://www.printweek.in/features/print-history-jesuit-historians-and-printing-in-sixteenth-century-india-57129"
+    },
+    {
+      "title": "Difference engine",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Difference_engine"
+    },
+    {
+      "title": "The Babbage Engine",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/babbage/"
+    },
+    {
+      "title": "October 22, 1938: Invention of xerography",
+      "publisher": "American Physical Society",
+      "url": "https://www.aps.org/apsnews/2003/10/october-1938-invention-xerography"
+    },
+    {
+      "title": "Chester Carlson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chester_Carlson"
+    },
+    {
+      "title": "Inkjet printing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Inkjet_printing"
+    },
+    {
+      "title": "Xerox 914",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Xerox_914"
+    },
+    {
+      "title": "Thermal paper",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thermal_paper"
+    },
+    {
+      "title": "EP-101",
+      "publisher": "Seiko Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/1968-9-ep-101.html"
+    },
+    {
+      "title": "Epson EP-101 printer",
+      "publisher": "National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_687274"
+    },
+    {
+      "title": "Centronics",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Centronics"
+    },
+    {
+      "title": "Dot matrix printing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dot_matrix_printing"
+    },
+    {
+      "title": "Gary Starkweather",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gary_Starkweather"
+    },
+    {
+      "title": "Gary K. Starkweather",
+      "publisher": "National Inventors Hall of Fame",
+      "url": "https://www.invent.org/inductees/gary-k-starkweather"
+    },
+    {
+      "title": "Laser printing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Laser_printing"
+    },
+    {
+      "title": "The history of Canon's intellectual property in the printing field",
+      "publisher": "Canon Global",
+      "url": "https://global.canon/en/intellectual-property/history/printing.html"
+    },
+    {
+      "title": "Hewlett-Packard ThinkJet, 1984",
+      "publisher": "HP Virtual Museum",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/imagingprinting/0011/index.html"
+    },
+    {
+      "title": "Jetting into the future: the HP 2225 ThinkJet",
+      "publisher": "HP History",
+      "url": "https://www.hewlettpackardhistory.com/item/jetting-into-the-future/"
+    },
+    {
+      "title": "HP LaserJet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HP_LaserJet"
+    },
+    {
+      "title": "US4575330A: Apparatus for production of three-dimensional objects by stereolithography",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US4575330A/en"
+    },
+    {
+      "title": "Chuck Hull",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chuck_Hull"
+    },
+    {
+      "title": "Canon celebrates 30th anniversary of launch of first Bubble Jet inkjet printer",
+      "publisher": "Canon Global",
+      "url": "https://global.canon/en/news/2015/aug26e2.html"
+    },
+    {
+      "title": "S. Scott Crump",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/S._Scott_Crump"
+    },
+    {
+      "title": "Epson Stylus Color",
+      "publisher": "Seiko Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/1994-5-stylus-color.html"
+    },
+    {
+      "title": "RepRap",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/RepRap"
+    },
+    {
+      "title": "L100 and L200 high-capacity ink tank inkjet printers",
+      "publisher": "Seiko Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/2010-10-l100l200.html"
+    },
+    {
+      "title": "Epson L100: world's first ink tank printer with low cost prints",
+      "publisher": "MobileScout",
+      "url": "https://www.mobilescout.com/tech/news/n83329/epson-l100-price-in-india-printer.html"
+    },
+    {
+      "title": "Adrian Bowyer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adrian_Bowyer"
+    }
+  ]
+}

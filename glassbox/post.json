@@ -1,0 +1,126 @@
+{
+  "slug": "printerclear",
+  "box": 68,
+  "question": "How does a printer work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/printerclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/printerclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "1,200 years from carved wooden blocks to ink tanks, laser drums and machines that print in plastic.\n\n868: The oldest dated printed book\n1440: Gutenberg's printing press\n1847: Babbage designs a printer for his engine\n1938: The first xerographic copy\n1970: The Centronics 101 dot-matrix printer\n1971: The laser printer is invented\n\nThe full story, with 24 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/printerclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/printerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #printer #inkjet #laserprinter #toner #halftone #cmyk #history",
+      "youtube": {
+        "title": "The history of the printer in 45 seconds #shorts",
+        "description": "1,200 years from carved wooden blocks to ink tanks, laser drums and machines that print in plastic.\n\n868 · The oldest dated printed book (Wang Jie (who paid for it) and unknown block cutters)\n1440 · Gutenberg's printing press (Johannes Gutenberg)\n1847 · Babbage designs a printer for his engine (Charles Babbage)\n1938 · The first xerographic copy (Chester Carlson and Otto Kornei)\n1970 · The Centronics 101 dot-matrix printer (Centronics, led by Robert Howard)\n1971 · The laser printer is invented (Gary Starkweather)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/printerclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/printerclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a printer work?\n\nA heater boils ink into a bubble in three millionths of a second. A laser draws your page in static electricity. Open up an inkjet and a laser printer in 3D and watch every dot land.\n\n→ Two ways to print: an inkjet squirts tiny drops, a laser printer melts powder onto the page.\n→ A heater boils a skin of ink for 3 millionths of a second, and the bubble throws out a drop.\n→ Row by row, thousands of drops a second spell out the page.\n→ Only four inks and a yes-or-no dot, but at 600 dots per inch your eye sees every shade.\n→ A laser draws the page as a pattern of charge on a spinning drum, and powder sticks to the pattern.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/printerclear (link in bio)\n\nBox No. 068 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #printer #inkjet #laserprinter #toner #halftone #cmyk #dotmatrix #thermalprinter #3dprinting",
+    "carousel": "Swipe through: How does a printer work?\n\nA heater boils ink into a bubble in three millionths of a second. A laser draws your page in static electricity. Open up an inkjet and a laser printer in 3D and watch every dot land.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/printerclear (link in bio).\n\nBox No. 068 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #printer #inkjet #laserprinter #toner #halftone #cmyk",
+    "youtube": {
+      "title": "How does a printer work? #shorts",
+      "description": "A heater boils ink into a bubble in three millionths of a second. A laser draws your page in static electricity. Open up an inkjet and a laser printer in 3D and watch every dot land.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/printerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/printerclear\n\nBox No. 068 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a printer work? (interactive explainer)",
+      "description": "A heater boils ink into a bubble in three millionths of a second. A laser draws your page in static electricity. Open up an inkjet and a laser printer in 3D and watch every dot land.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/printerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/printerclear\n\nIn this video:\n• Two machines, one job: dots. Every printer turns a page into millions of tiny dots.\n• A bubble throws each drop. In a thermal inkjet, a 3 µs pulse heats a skin of ink to about 300 °C.\n• Shades from yes-or-no dots. A printer can only print a dot or leave the paper white, so it makes shades by changing how many dots it prints, in neat rows (halftone) or scattered (dither).\n• Charge, light, powder, heat. The laser printer's drum is charged to about −700 V.\n• Pins, heat and plastic. Dot-matrix printers fire steel pins through an inked ribbon, which is why banks still use them for passbooks and carbon copies.\n• The ink is the expensive part. Cartridge ink can cost over ₹1 lakh a litre because printers are often sold cheaply and paid for through ink.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a printer work?\n\nA heater boils ink into a bubble in three millionths of a second.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/printerclear/",
+    "linkedin": "How does a printer work?\n\nA heater boils ink into a bubble in three millionths of a second. A laser draws your page in static electricity. Open up an inkjet and a laser printer in 3D and watch every dot land.\n\n1. Two machines, one job: dots\n2. A bubble throws each drop\n3. Shades from yes-or-no dots\n4. Charge, light, powder, heat\n5. Pins, heat and plastic\n6. The ink is the expensive part\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 068 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/printerclear/\nCode: https://github.com/bdeeps/printerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T04:11:59.101Z"
+}

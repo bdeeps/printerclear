@@ -1,0 +1,108 @@
+{
+  "slug": "printerclear",
+  "box": 68,
+  "date": "2026-10-03",
+  "title": "PrinterClear",
+  "question": "How does a printer work?",
+  "hook": "A heater boils ink into a bubble in three millionths of a second. A laser draws your page in static electricity. Open up an inkjet and a laser printer in 3D and watch every dot land.",
+  "thumbText": "HOW A PRINTER WORKS",
+  "field": "machines",
+  "minutes": 12,
+  "tags": [
+    "printer",
+    "inkjet",
+    "laser printer",
+    "toner",
+    "halftone",
+    "CMYK",
+    "dot matrix",
+    "thermal printer",
+    "3D printing",
+    "ink tank",
+    "India",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two machines, one job: dots",
+      "text": "Every printer turns a page into millions of tiny dots. An inkjet pulls paper past a carriage that sweeps a printhead full of nozzles across it. A laser printer draws the page as static charge on a drum, sticks powdered toner to it and melts the toner onto the paper."
+    },
+    {
+      "title": "A bubble throws each drop",
+      "text": "In a thermal inkjet, a 3 µs pulse heats a skin of ink to about 300 °C. The vapour bubble throws out a drop of a few picolitres at about 10 m/s, then collapses and the chamber refills. A 5 pL drop is about 21 µm across. Piezo heads squeeze the chamber with a bending crystal instead."
+    },
+    {
+      "title": "Shades from yes-or-no dots",
+      "text": "A printer can only print a dot or leave the paper white, so it makes shades by changing how many dots it prints, in neat rows (halftone) or scattered (dither). Cyan, magenta and yellow inks take light away from white paper, and black ink is added because real C + M + Y makes a muddy brown."
+    },
+    {
+      "title": "Charge, light, powder, heat",
+      "text": "The laser printer's drum is charged to about −700 V. Where the laser, swept by a spinning mirror, hits it, the charge leaks away. Negatively charged toner lands only on those spots, is pulled onto the paper, and is melted in by a fuser at about 150 to 200 °C."
+    },
+    {
+      "title": "Pins, heat and plastic",
+      "text": "Dot-matrix printers fire steel pins through an inked ribbon, which is why banks still use them for passbooks and carbon copies. Receipt printers heat a special coating that turns black, with no ink at all. A 3D printer lays melted plastic in layers about 0.2 mm thick."
+    },
+    {
+      "title": "The ink is the expensive part",
+      "text": "Cartridge ink can cost over ₹1 lakh a litre because printers are often sold cheaply and paid for through ink. Ink tank printers cost more to buy but print a black page for about 10 paise, not about ₹2. Printing now and then keeps nozzles from drying out."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Printhead",
+      "def": "The chip in an inkjet with hundreds of tiny nozzles that fire drops of ink."
+    },
+    {
+      "term": "Thermal inkjet",
+      "def": "A printhead that boils a tiny amount of ink so the vapour bubble pushes out a drop."
+    },
+    {
+      "term": "Piezo inkjet",
+      "def": "A printhead that squeezes out drops with a crystal that bends when a voltage is applied."
+    },
+    {
+      "term": "dpi",
+      "def": "Dots per inch: how many dots a printer can place along one inch."
+    },
+    {
+      "term": "Halftone",
+      "def": "A pattern of dots that the eye blends into shades of grey or colour."
+    },
+    {
+      "term": "CMYK",
+      "def": "Cyan, magenta, yellow and key (black): the four inks most printers use, mixing by taking light away."
+    },
+    {
+      "term": "Photoconductor",
+      "def": "A coating that holds static charge in the dark but lets it leak away where light hits it."
+    },
+    {
+      "term": "Toner",
+      "def": "A fine powder of plastic and pigment that laser printers place with static and melt onto paper."
+    },
+    {
+      "term": "Fuser",
+      "def": "A hot roller and a pressure roller that melt toner into the paper."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "printerclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
